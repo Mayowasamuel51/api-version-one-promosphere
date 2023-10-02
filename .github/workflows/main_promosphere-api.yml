@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'promosphere-api'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_69FDE94533154BF88528399E619CADB6 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_943B97FFCA3B43ACA2F8A22718F034F0 }}
           package: .
